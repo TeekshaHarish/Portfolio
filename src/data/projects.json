@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Camp Planner",
+    "imageSrc": "projects/project.png",
+    "description": "Website for listing, adding and updating campgrounds and tourist spots so that new places are discovered and shared with fellow travel enthusiasts,and give ratings and reviews.",
+    "skills": ["Express", "NodeJs","MongoDB","EJS"],
+    "demo": "https://github.com/TeekshaHarish/CampPlanner/tree/main",
+    "source": "https://github.com/TeekshaHarish/CampPlanner/tree/main"
+  },
+  {
+    "title": "GameZoneX",
+    "imageSrc": "projects/project.png",
+    "description": "Mini Games Website comprising of games like Snake Game, Tic Tac Toe, Dino Game and a Card game. Features like play with computer or freind, choose diffulty are also added.",
+    "skills": ["HTML", "CSS", "JS", "Bootstrap"],
+    "demo": "https://gamezonex.onrender.com/",
+    "source": "https://github.com/TeekshaHarish/GameZone"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://gamezonex.onrender.com/",
+    "source": "https://github.com/TeekshaHarish/GameZone"
+  }
+]
