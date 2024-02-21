@@ -1,26 +1,42 @@
 [
   {
     "title": "Camp Planner",
-    "imageSrc": "projects/project.png",
-    "description": "Website for listing, adding and updating campgrounds and tourist spots so that new places are discovered and shared with fellow travel enthusiasts,and give ratings and reviews.",
+    "imageSrc": "projects/CampPlanner.jpg",
+    "description": "Website for showing and adding new unvisited campgrounds and tourist spots so that new places are discovered and shared with fellow travel enthusiasts,and give ratings and reviews.",
     "skills": ["Express", "NodeJs","MongoDB","EJS"],
-    "demo": "https://github.com/TeekshaHarish/CampPlanner/tree/main",
+    "demo": "",
     "source": "https://github.com/TeekshaHarish/CampPlanner/tree/main"
   },
   {
+    "title": "Clinic Click",
+    "imageSrc": "projects/DOCAPP.jpg",
+    "description": "Clinic Click is a MERN stack-based doctor appointment booking app that simplifies the connection between patients and healthcare providers. It offers user and doctor registration, an admin dashboard for user management, advanced search filters by specialty, and efficient appointment booking.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "",
+    "source": "https://github.com/TeekshaHarish/DOC-APP"
+  },
+  {
+    "title": "College Buddy",
+    "imageSrc": "projects/CollegeBuddy.jpg",
+    "description": "College Buddy is an innovative website designed to connect students seeking teammates for hackathons and projects with peers who possess complementary skill sets. It also serves as a centralized hub for discovering opportunities that students might otherwise overlook.",
+    "skills": ["Express", "NodeJs","MongoDB","EJS"],
+    "demo": "",
+    "source": "https://github.com/TeekshaHarish/teammate-finder"
+  },
+  {
     "title": "GameZoneX",
-    "imageSrc": "projects/project.png",
-    "description": "Mini Games Website comprising of games like Snake Game, Tic Tac Toe, Dino Game and a Card game. Features like play with computer or freind, choose diffulty are also added.",
+    "imageSrc": "projects/GameZoneX.jpg",
+    "description": "Mini Games Website comprising of games like Snake Game, Tic Tac Toe, Dino Game and a Card game. Features like play with computer or friend, and to choose diffulty are also added.",
     "skills": ["HTML", "CSS", "JS", "Bootstrap"],
     "demo": "https://gamezonex.onrender.com/",
     "source": "https://github.com/TeekshaHarish/GameZone"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://gamezonex.onrender.com/",
-    "source": "https://github.com/TeekshaHarish/GameZone"
+    "title": "Physics Lab Website",
+    "imageSrc": "projects/PhysicsLab.jpg",
+    "description": "Its a website I made for my college's Physics Dpeartment.It serves as a central hub for students, faculty, and alumni, showcasing the latest in academic achievements and research breakthroughs. ",
+    "skills": ["React","HTML","CSS","Bootstrap"],
+    "demo": "https://physics-lab-website.vercel.app/",
+    "source": "https://github.com/TeekshaHarish/Physics-Lab-Website"
   }
 ]

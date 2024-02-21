@@ -50,7 +50,8 @@
 .heroImg{
     width: 50%;
     z-index: 1;
-
+    padding-left: 30px;
+    max-width: 400px;
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;

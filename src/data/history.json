@@ -1,14 +1,14 @@
 [
   {
-    "role": "Full Stack Developer",
+    "role": "Full Stack Developer Intern",
     "organisation": "Sheshya",
     "startDate": "Sept, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Login SignUp page", "Replicated Figma Design for some pages"],
+    "experiences": ["Responsible for making their website using the given figma design", "Made various pages such as student dashboard, assignment page etc."],
     "imageSrc": "history/sheshya.jpg"
   },
   {
-    "role": "Frontend Developer",
+    "role": "Frontend Developer Intern",
     "organisation": "Whale Street",
     "startDate": "June, 2023",
     "endDate": "Aug, 2023",
