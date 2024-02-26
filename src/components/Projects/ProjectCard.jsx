@@ -30,7 +30,7 @@ export const ProjectCard = ({
         <div className={styles.links}>
           {demo.length > 0 ? (
             <a href={demo} className={styles.link}>
-              Demo
+              See Live
             </a>
           ) : (
             ""

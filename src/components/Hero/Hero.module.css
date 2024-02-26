@@ -104,4 +104,15 @@
     .content{
         align-items: center;
     }
+    .title{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width:620px){
+    .heroImg{
+        width:70%;
+    }
+    .title{
+        font-size: 10vw;
+    }
 }
