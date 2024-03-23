@@ -4,7 +4,7 @@
     "imageSrc": "projects/CampPlanner.jpg",
     "description": "Website for showing and adding new unvisited campgrounds and tourist spots so that new places are discovered and shared with fellow travel enthusiasts,and give ratings and reviews.",
     "skills": ["Express", "NodeJs","MongoDB","EJS"],
-    "demo": "",
+    "demo": "https://campplanner.onrender.com/",
     "source": "https://github.com/TeekshaHarish/CampPlanner/tree/main"
   },
   {
