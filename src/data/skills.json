@@ -34,5 +34,25 @@
   {
     "title": "Tailwind CSS",
     "imageSrc": "skills/tailwindCSS.png"
+  },
+  {
+    "title": "FAST API",
+    "imageSrc": "skills/fastapi.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.svg"
+  },
+  {
+    "title": "My SQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++.svg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.jpeg"
   }
 ]

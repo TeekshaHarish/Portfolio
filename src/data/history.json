@@ -1,9 +1,17 @@
 [
   {
+    "role": "Systems Intern",
+    "organisation": "D.E. Shaw & Co.",
+    "startDate": "June, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Made an internal tool for the firm to track changes across various entities and automate repetitive task of querying various sources", "Tracking indirect relations and permision changes, and made a subscription model also."],
+    "imageSrc": "history/deshaw.png"
+  },
+  {
     "role": "Full Stack Developer Intern",
     "organisation": "Sheshya",
     "startDate": "Sept, 2023",
-    "endDate": "Present",
+    "endDate": "Feb 2024",
     "experiences": ["Responsible for making their website using the given figma design", "Made various pages such as student dashboard, assignment page etc."],
     "imageSrc": "history/sheshya.jpg"
   },

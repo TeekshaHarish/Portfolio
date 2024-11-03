@@ -2,15 +2,15 @@
   {
     "title": "Camp Planner",
     "imageSrc": "projects/CampPlanner.jpg",
-    "description": "Website for showing and adding new unvisited campgrounds and tourist spots so that new places are discovered and shared with fellow travel enthusiasts,and give ratings and reviews.",
+    "description": "A dynamic website for discovering and sharing unvisited campgrounds and tourist spots, allowing travel enthusiasts to add new locations, provide ratings, and write reviews. Enhanced with CRUD functionality, interactive cluster maps, precise location mapping, and image uploads to enrich the user experience.",
     "skills": ["Express", "NodeJs","MongoDB","EJS"],
     "demo": "https://campplanner.onrender.com/",
     "source": "https://github.com/TeekshaHarish/CampPlanner/tree/main"
   },
   {
-    "title": "Clinic Click",
-    "imageSrc": "projects/DOCAPP.jpg",
-    "description": "Clinic Click is a MERN stack-based doctor appointment booking app that simplifies the connection between patients and healthcare providers. It offers user and doctor registration, an admin dashboard for user management, advanced search filters by specialty, and efficient appointment booking.",
+    "title": "MedHelp",
+    "imageSrc": "projects/MedHelp.jpg",
+    "description": "A MERN stack-based healthcare platform that connects patients with healthcare providers through seamless appointment booking and advanced specialty search filters. Features include user and doctor registration, an admin dashboard for managing profiles, and machine learning-driven disease prediction and doctor recommendations.",
     "skills": ["React", "Express", "Node","MongoDB"],
     "demo": "",
     "source": "https://github.com/TeekshaHarish/DOC-APP"
