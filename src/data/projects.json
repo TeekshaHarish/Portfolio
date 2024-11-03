@@ -13,7 +13,7 @@
     "description": "A MERN stack-based healthcare platform that connects patients with healthcare providers through seamless appointment booking and advanced specialty search filters. Features include user and doctor registration, an admin dashboard for managing profiles, and machine learning-driven disease prediction and doctor recommendations.",
     "skills": ["React", "Express", "Node","MongoDB"],
     "demo": "",
-    "source": "https://github.com/TeekshaHarish/DOC-APP"
+    "source": "https://github.com/TeekshaHarish/MedHelp"
   },
   {
     "title": "College Buddy",
